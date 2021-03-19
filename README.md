@@ -14,7 +14,7 @@
 
 `docker-compose up`
 
-open new terminal
+-> open new terminal
 
 `docker-compose exec py_sandbox bash`
 
