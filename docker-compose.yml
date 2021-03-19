@@ -1,0 +1,7 @@
+version: "3"
+services:
+  py_sandbox:
+    build: .
+    volumes:
+      - ./tmp:/workspace
+    tty: true
